@@ -1,7 +1,13 @@
 ```
-#I installed- sudo apt-get install expect
+#I installed: sudo apt-get install expect
 
 #https://hostadvice.com/how-to/how-to-automate-tasks-in-ssh/
+
+To setup the script, change the UM_UNIQUENAME to your unique name, and put your password in 'insertpasswordhere'. 
+
+Depending on how many devices you have setup, your next expect entry should either be "3) " "4) " or "5) " . Change it to whatever ending line you prefer for your duo
+
+You can change the send 1 to whichever option you prefer.
 
 #to compile, NOT chmod +x fileName
 
