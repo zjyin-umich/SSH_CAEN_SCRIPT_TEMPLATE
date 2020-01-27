@@ -10,7 +10,7 @@
 #In short, run ssh with the -q flag to disable warnings/diagnostics (but not errors).
 ```
 
-
+```
 #1) To allow this script to be executed anywhere, create an alias in bashrc
 
 #) cd ~
@@ -28,7 +28,7 @@
 #) :wq
 
 #) Reload the terminal, try out your new alias command: shortCutName
-
+```
 
 
 
@@ -36,3 +36,18 @@
 
 
 #This is so you can match what CL outputs for it to identify when to send the expected numerical entry
+
+
+
+---DUO AUTO ACCEPTOR SETUP---
+```
+Need more time to come up with an iOS version as Apple wont let you install anything that isnt from the app store. Looking into automate for iOS as an alt
+
+For Android Users:
+#Note: This app works best if you put it on a burner phone/tablet and leave it at home connected to wifi. This way it wont screw with your personal phone CPU/battery/etc.
+
+1) Download & Install the APK.
+2) Allow the app to access your notification badges
+3) try running the sshCaen script or loging into canvas
+
+```
