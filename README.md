@@ -21,7 +21,7 @@
 
 #) got to the very bottom of the file, press i for insert mode
 
-#) alias	 shortcutName="insertPathToScript/./scriptName_script.sh" example: alias sshcaen="/mnt/c/A_scripts/SSH_caen_script.sh"
+#) alias shortcutName="insertPathToScript/./scriptName_script.sh" example: alias sshcaen="/mnt/c/A_scripts/SSH_caen_script.sh"
 
 #) Press the ESC key
 
