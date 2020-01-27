@@ -52,7 +52,7 @@ Need more time to come up with an iOS version as Apple wont let you install anyt
 For Android Users:
 #Note: This app works best if you put it on a burner phone/tablet and leave it at home connected to wifi. This way it wont screw with your personal phone CPU/battery/etc.
 
-1) Download & Install the APK.
+1) Download & Install the APK. The version in the github works, or you can download it from here: https://play.google.com/store/apps/details?id=com.onpointsoftware.duoautoacceptor&hl=en_US
 2) Allow the app to access your notification badges
 3) try running the sshCaen script or loging into canvas
 
