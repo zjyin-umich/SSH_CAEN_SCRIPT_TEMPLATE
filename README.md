@@ -1,7 +1,15 @@
 #I installed- sudo apt-get install expect
+
+
 #https://hostadvice.com/how-to/how-to-automate-tasks-in-ssh/
+
+
 #to compile, NOT chmod +x fileName
+
+
 #its chmod 755 fileName
+
+
 #In short, run ssh with the -q flag to disable warnings/diagnostics (but not errors).
 
 
