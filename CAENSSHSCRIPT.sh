@@ -6,7 +6,7 @@
 #its chmod 755 fileName
 #In short, run ssh with the -q flag to disable warnings/diagnostics (but not errors).
 
-spawn ssh zjyin@login.engin.umich.edu
+spawn ssh UM_UNIQUENAME@login.engin.umich.edu
 expect "*: "
 send "insertpasswordhere\r"
 expect "4): "
